@@ -1,4 +1,4 @@
-const token = '7c35a1b3b43c09f3b980e677f029f045'
+const token = 
 
 const bgimg = 'https://c4.wallpaperflare.com/wallpaper/134/37/127/seasons-spring-summer-winter-wallpaper-preview.jpg';
 document.body.style.backgroundImage = `url(${bgimg})`;
